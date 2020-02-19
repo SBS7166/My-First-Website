@@ -1,3 +1,59 @@
 body{
-    background-color: coral;
+    margin: 0px;
+    font-family: 'Odibee Sans', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+.left-side{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 10px;;
+    padding-left: 2%;
+}
+.left-side img{
+    width:100%;
+}
+.left-side p{
+    text-align: justify;
+}
+.link-button{
+    background-color:  rgb(228, 164, 27);
+    color: rgb(252, 249, 249);
+    font-weight: 700;
+    border-radius: 5px;
+    padding:10px 20px;
+    background-image: linear-gradient(rgb(173, 56, 56),rgb(211, 152, 42)rgb(105, 79, 7)e);
+    text-decoration: none;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heighlight{
+    color:peru;
+}
+section{
+    height:600px;
+    padding-bottom: 100px;
+}
+.dream-area{
+}
+.left-half{
+}
+.left-half img{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 10px;;
+    padding-left: 2%;
+}
+.right-half{
+    width:40%;
+    padding-left: 30px;
+    padding-top: 10px;
+    overflow: hidden;
+}
+.right-half p{
+    text-align: justify;
 }
